@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%2BReactModelDeployment/ImageGenerationModels/GanModel/mlruns/0/58dc49a9c26642f1991c550892180f03/artifacts
+end_time: 1732513285350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58dc49a9c26642f1991c550892180f03
+run_name: valuable-rook-151
+run_uuid: 58dc49a9c26642f1991c550892180f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732513285334
+status: 4
+tags: []
+user_id: Christy Jo

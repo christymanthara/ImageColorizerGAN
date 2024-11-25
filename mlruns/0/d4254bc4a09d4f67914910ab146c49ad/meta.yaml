@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%2BReactModelDeployment/ImageGenerationModels/GanModel/mlruns/0/d4254bc4a09d4f67914910ab146c49ad/artifacts
+end_time: 1732514512488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4254bc4a09d4f67914910ab146c49ad
+run_name: puzzled-fox-257
+run_uuid: d4254bc4a09d4f67914910ab146c49ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732514358578
+status: 3
+tags: []
+user_id: Christy Jo

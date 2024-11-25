@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ML%2BReactModelDeployment/ImageGenerationModels/GanModel/mlruns/0/ab771ab8128140b5ab6cc25cb54be684/artifacts
+end_time: 1732514028256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab771ab8128140b5ab6cc25cb54be684
+run_name: languid-grouse-718
+run_uuid: ab771ab8128140b5ab6cc25cb54be684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732513980840
+status: 4
+tags: []
+user_id: Christy Jo
